@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Vellore Institute of Technology.\
 ✉️ &nbsp;You can shoot me an email at andykumar412@gmail.com! I'll try to respond as soon as I can.
 
