@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar Ray</h1>
 <h3 align="center">A passionate Problem Solver from India</h3>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='40' align="left"/>
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akray08&label=Profile%20views&color=0e75b6&style=flat" alt="akray08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akray08" alt="akray08" /></a> </p>
