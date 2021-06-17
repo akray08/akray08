@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar Ray</h1>
-<h3 align="center">A passionate Problem Solver from India</h3>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Vellore Institute of Technology.\
+✉️ &nbsp;You can shoot me an email at andykumar412@gmail.com! I'll try to respond as soon as I can.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akray08&label=Profile%20views&color=0e75b6&style=flat" alt="akray08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akray08" alt="akray08" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akray08" target="blank"><img src="https://img.shields.io/twitter/follow/akray08?logo=twitter&style=for-the-badge" alt="akray08" /></a> </p>
 
-- 📫 How to reach me **andykumar412@gmail.com**
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 - ⚡ Fun fact **I think I am Funny XD XD**
 
