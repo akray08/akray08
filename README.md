@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer and Electronics Engineering at the Vellore Institute of Technology.\
+🎓 &nbsp;I'm Computer Engineer from the Vellore Institute of Technology currently working at Cisco.\
 ✉️ &nbsp;You can shoot me an email at andykumar412@gmail.com! I'll try to respond as soon as I can.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akray08&label=Profile%20views&color=0e75b6&style=flat" alt="akray08" /> </p>
